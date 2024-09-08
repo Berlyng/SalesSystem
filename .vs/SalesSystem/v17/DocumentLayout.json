@@ -1,0 +1,322 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyecto c#\\SalesSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47A68DDE-42AC-4739-84D2-6ACC13C89D19}|SalesSystem.csproj|c:\\proyecto c#\\salessystem\\wwwroot\\js\\upploadimage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{47A68DDE-42AC-4739-84D2-6ACC13C89D19}|SalesSystem.csproj|solutionrelative:wwwroot\\js\\upploadimage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A68DDE-42AC-4739-84D2-6ACC13C89D19}|SalesSystem.csproj|c:\\proyecto c#\\salessystem\\wwwroot\\js\\principal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{47A68DDE-42AC-4739-84D2-6ACC13C89D19}|SalesSystem.csproj|solutionrelative:wwwroot\\js\\principal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A68DDE-42AC-4739-84D2-6ACC13C89D19}|SalesSystem.csproj|c:\\proyecto c#\\salessystem\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{47A68DDE-42AC-4739-84D2-6ACC13C89D19}|SalesSystem.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A68DDE-42AC-4739-84D2-6ACC13C89D19}|SalesSystem.csproj|c:\\proyecto c#\\salessystem\\wwwroot\\js\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{47A68DDE-42AC-4739-84D2-6ACC13C89D19}|SalesSystem.csproj|solutionrelative:wwwroot\\js\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A68DDE-42AC-4739-84D2-6ACC13C89D19}|SalesSystem.csproj|c:\\proyecto c#\\salessystem\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{47A68DDE-42AC-4739-84D2-6ACC13C89D19}|SalesSystem.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A68DDE-42AC-4739-84D2-6ACC13C89D19}|SalesSystem.csproj|c:\\proyecto c#\\salessystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47A68DDE-42AC-4739-84D2-6ACC13C89D19}|SalesSystem.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A68DDE-42AC-4739-84D2-6ACC13C89D19}|SalesSystem.csproj|c:\\proyecto c#\\salessystem\\areas\\users\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47A68DDE-42AC-4739-84D2-6ACC13C89D19}|SalesSystem.csproj|solutionrelative:areas\\users\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A68DDE-42AC-4739-84D2-6ACC13C89D19}|SalesSystem.csproj|c:\\proyecto c#\\salessystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A68DDE-42AC-4739-84D2-6ACC13C89D19}|SalesSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A68DDE-42AC-4739-84D2-6ACC13C89D19}|SalesSystem.csproj|c:\\proyecto c#\\salessystem\\library\\lusersroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A68DDE-42AC-4739-84D2-6ACC13C89D19}|SalesSystem.csproj|solutionrelative:library\\lusersroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A68DDE-42AC-4739-84D2-6ACC13C89D19}|SalesSystem.csproj|c:\\proyecto c#\\salessystem\\areas\\users\\models\\inputmodelregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A68DDE-42AC-4739-84D2-6ACC13C89D19}|SalesSystem.csproj|solutionrelative:areas\\users\\models\\inputmodelregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A68DDE-42AC-4739-84D2-6ACC13C89D19}|SalesSystem.csproj|c:\\proyecto c#\\salessystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A68DDE-42AC-4739-84D2-6ACC13C89D19}|SalesSystem.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/Berlyng/SalesSystem/user_vr/SqlTable/dbo.AspNetRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A68DDE-42AC-4739-84D2-6ACC13C89D19}|SalesSystem.csproj|c:\\proyecto c#\\salessystem\\salessystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{47A68DDE-42AC-4739-84D2-6ACC13C89D19}|SalesSystem.csproj|solutionrelative:salessystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A68DDE-42AC-4739-84D2-6ACC13C89D19}|SalesSystem.csproj|c:\\proyecto c#\\salessystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{47A68DDE-42AC-4739-84D2-6ACC13C89D19}|SalesSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A68DDE-42AC-4739-84D2-6ACC13C89D19}|SalesSystem.csproj|c:\\proyecto c#\\salessystem\\areas\\users\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A68DDE-42AC-4739-84D2-6ACC13C89D19}|SalesSystem.csproj|solutionrelative:areas\\users\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A68DDE-42AC-4739-84D2-6ACC13C89D19}|SalesSystem.csproj|c:\\proyecto c#\\salessystem\\areas\\users\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47A68DDE-42AC-4739-84D2-6ACC13C89D19}|SalesSystem.csproj|solutionrelative:areas\\users\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A68DDE-42AC-4739-84D2-6ACC13C89D19}|SalesSystem.csproj|c:\\proyecto c#\\salessystem\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47A68DDE-42AC-4739-84D2-6ACC13C89D19}|SalesSystem.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A68DDE-42AC-4739-84D2-6ACC13C89D19}|SalesSystem.csproj|c:\\proyecto c#\\salessystem\\areas\\users\\pages\\_viewimport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47A68DDE-42AC-4739-84D2-6ACC13C89D19}|SalesSystem.csproj|solutionrelative:areas\\users\\pages\\_viewimport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 192,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Principal.js",
+              "DocumentMoniker": "C:\\Proyecto c#\\SalesSystem\\wwwroot\\js\\Principal.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\Principal.js",
+              "ToolTip": "C:\\Proyecto c#\\SalesSystem\\wwwroot\\js\\Principal.js",
+              "RelativeToolTip": "wwwroot\\js\\Principal.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-08T22:39:15.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Proyecto c#\\SalesSystem\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Proyecto c#\\SalesSystem\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-08T22:13:50.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Proyecto c#\\SalesSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Proyecto c#\\SalesSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T22:13:17.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Users.js",
+              "DocumentMoniker": "C:\\Proyecto c#\\SalesSystem\\wwwroot\\js\\Users.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\Users.js",
+              "ToolTip": "C:\\Proyecto c#\\SalesSystem\\wwwroot\\js\\Users.js",
+              "RelativeToolTip": "wwwroot\\js\\Users.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-08T22:12:57.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpploadImage.js",
+              "DocumentMoniker": "C:\\Proyecto c#\\SalesSystem\\wwwroot\\js\\UpploadImage.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\UpploadImage.js",
+              "ToolTip": "C:\\Proyecto c#\\SalesSystem\\wwwroot\\js\\UpploadImage.js",
+              "RelativeToolTip": "wwwroot\\js\\UpploadImage.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-08T22:12:37.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LUsersRoles.cs",
+              "DocumentMoniker": "C:\\Proyecto c#\\SalesSystem\\Library\\LUsersRoles.cs",
+              "RelativeDocumentMoniker": "Library\\LUsersRoles.cs",
+              "ToolTip": "C:\\Proyecto c#\\SalesSystem\\Library\\LUsersRoles.cs",
+              "RelativeToolTip": "Library\\LUsersRoles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T21:28:46.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SalesSystem",
+              "DocumentMoniker": "C:\\Proyecto c#\\SalesSystem\\SalesSystem.csproj",
+              "RelativeDocumentMoniker": "SalesSystem.csproj",
+              "ToolTip": "C:\\Proyecto c#\\SalesSystem\\SalesSystem.csproj",
+              "RelativeToolTip": "SalesSystem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-08T21:27:58.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Proyecto c#\\SalesSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Proyecto c#\\SalesSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T20:38:07.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dbo.AspNetRoles [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/Berlyng/SalesSystem/user_vr/SqlTable/dbo.AspNetRoles.sql",
+              "ToolTip": "dbo.AspNetRoles [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-08T20:32:40.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Proyecto c#\\SalesSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Proyecto c#\\SalesSystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-08T19:44:57.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Proyecto c#\\SalesSystem\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Proyecto c#\\SalesSystem\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-08T18:25:34.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Proyecto c#\\SalesSystem\\Areas\\Users\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Users\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Proyecto c#\\SalesSystem\\Areas\\Users\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Users\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:40:52.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InputModelRegister.cs",
+              "DocumentMoniker": "C:\\Proyecto c#\\SalesSystem\\Areas\\Users\\Models\\InputModelRegister.cs",
+              "RelativeDocumentMoniker": "Areas\\Users\\Models\\InputModelRegister.cs",
+              "ToolTip": "C:\\Proyecto c#\\SalesSystem\\Areas\\Users\\Models\\InputModelRegister.cs",
+              "RelativeToolTip": "Areas\\Users\\Models\\InputModelRegister.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:24:01.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Proyecto c#\\SalesSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Proyecto c#\\SalesSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T14:50:45.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImport.cshtml",
+              "DocumentMoniker": "C:\\Proyecto c#\\SalesSystem\\Areas\\Users\\Pages\\_ViewImport.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Users\\Pages\\_ViewImport.cshtml",
+              "ToolTip": "C:\\Proyecto c#\\SalesSystem\\Areas\\Users\\Pages\\_ViewImport.cshtml",
+              "RelativeToolTip": "Areas\\Users\\Pages\\_ViewImport.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T14:37:39.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Proyecto c#\\SalesSystem\\Areas\\Users\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Users\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Proyecto c#\\SalesSystem\\Areas\\Users\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Users\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAiwEUAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T14:36:52.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Proyecto c#\\SalesSystem\\Areas\\Users\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Users\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Proyecto c#\\SalesSystem\\Areas\\Users\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Users\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T14:31:15.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Proyecto c#\\SalesSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Proyecto c#\\SalesSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T13:55:47.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
